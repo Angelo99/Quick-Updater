@@ -3,7 +3,7 @@ Quick-Updater
 
 C# Simple Update Class
 
-Example:
+Example::
 
 using Update;
 
